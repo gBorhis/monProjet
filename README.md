@@ -1,3 +1,2 @@
 # NoteDeFraisByIA
-Projet etest pour gestion des branches
-
+Projet IA de création complète de gestion de note frais
